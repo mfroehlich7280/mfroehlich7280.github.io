@@ -2,22 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>http://localhost/</loc>
-         <lastmod>2024-10-06</lastmod>
+         <lastmod>2024-10-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost/hauptgerichte/verheierte/</loc>
-         <lastmod>2024-10-06</lastmod>
+         <lastmod>2024-10-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost/salate/gurkensalat/</loc>
-         <lastmod>2024-10-06</lastmod>
+         <lastmod>2024-10-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://localhost/salate/italienischer-nudelsalat/</loc>
+         <lastmod>2024-10-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://localhost/salate/karotten-mandel-salat/</loc>
+         <lastmod>2024-10-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost/salate/kartoffelsalat/</loc>
-         <lastmod>2024-10-06</lastmod>
+         <lastmod>2024-10-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
