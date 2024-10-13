@@ -2,32 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>http://localhost/</loc>
-         <lastmod>2024-10-12</lastmod>
+         <lastmod>2024-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost/hauptgerichte/verheierte/</loc>
-         <lastmod>2024-10-12</lastmod>
+         <lastmod>2024-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost/salate/gurkensalat/</loc>
-         <lastmod>2024-10-12</lastmod>
+         <lastmod>2024-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost/salate/italienischer-nudelsalat/</loc>
-         <lastmod>2024-10-12</lastmod>
+         <lastmod>2024-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost/salate/karotten-mandel-salat/</loc>
-         <lastmod>2024-10-12</lastmod>
+         <lastmod>2024-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://localhost/salate/kartoffelsalat/</loc>
-         <lastmod>2024-10-12</lastmod>
+         <lastmod>2024-10-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://localhost/salate/rindfleischsalat/</loc>
+         <lastmod>2024-10-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://localhost/salate/rote-bete-salat/</loc>
+         <lastmod>2024-10-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://localhost/salate/spargelsalat/</loc>
+         <lastmod>2024-10-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://localhost/salate/vinaigrette/</loc>
+         <lastmod>2024-10-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://localhost/sossen-bruehen-fonds/bolognese/</loc>
+         <lastmod>2024-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
