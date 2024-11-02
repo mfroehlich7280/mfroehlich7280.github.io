@@ -2,62 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>http://localhost/</loc>
-         <lastmod>2024-10-29</lastmod>
+         <lastmod>2024-11-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://localhost/backwaren/speckk%C3%BCchle/</loc>
-         <lastmod>2024-10-29</lastmod>
+         <loc>http://localhost/Backwaren/speckk%C3%BCchle/</loc>
+         <lastmod>2024-11-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://localhost/hauptgerichte/verheierte/</loc>
-         <lastmod>2024-10-29</lastmod>
+         <loc>http://localhost/Hauptgerichte/verheierte/</loc>
+         <lastmod>2024-11-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://localhost/salate/gurkensalat/</loc>
-         <lastmod>2024-10-29</lastmod>
+         <loc>http://localhost/Salate/gurkensalat/</loc>
+         <lastmod>2024-11-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://localhost/salate/italienischer-nudelsalat/</loc>
-         <lastmod>2024-10-29</lastmod>
+         <loc>http://localhost/Salate/italienischer-nudelsalat/</loc>
+         <lastmod>2024-11-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://localhost/salate/karotten-mandel-salat/</loc>
-         <lastmod>2024-10-29</lastmod>
+         <loc>http://localhost/Salate/karotten-mandel-salat/</loc>
+         <lastmod>2024-11-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://localhost/salate/kartoffelsalat/</loc>
-         <lastmod>2024-10-29</lastmod>
+         <loc>http://localhost/Salate/kartoffelsalat/</loc>
+         <lastmod>2024-11-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://localhost/salate/rindfleischsalat/</loc>
-         <lastmod>2024-10-29</lastmod>
+         <loc>http://localhost/Salate/rindfleischsalat/</loc>
+         <lastmod>2024-11-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://localhost/salate/rote-bete-salat/</loc>
-         <lastmod>2024-10-29</lastmod>
+         <loc>http://localhost/Salate/rote-bete-salat/</loc>
+         <lastmod>2024-11-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://localhost/salate/spargelsalat/</loc>
-         <lastmod>2024-10-29</lastmod>
+         <loc>http://localhost/Salate/spargelsalat/</loc>
+         <lastmod>2024-11-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://localhost/salate/vinaigrette/</loc>
-         <lastmod>2024-10-29</lastmod>
+         <loc>http://localhost/Salate/vinaigrette/</loc>
+         <lastmod>2024-11-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://localhost/sossen-bruehen-fonds/bolognese/</loc>
-         <lastmod>2024-10-29</lastmod>
+         <loc>http://localhost/So%C3%9Fen%2C%20Br%C3%BChen%2C%20Fonds/bolognese/</loc>
+         <lastmod>2024-11-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://localhost/So%C3%9Fen%2C%20Br%C3%BChen%2C%20Fonds/braune-grundsosse/</loc>
+         <lastmod>2024-11-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://localhost/So%C3%9Fen%2C%20Br%C3%BChen%2C%20Fonds/braune-zwiebelsosse/</loc>
+         <lastmod>2024-11-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://localhost/So%C3%9Fen%2C%20Br%C3%BChen%2C%20Fonds/currywurstsosse/</loc>
+         <lastmod>2024-11-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://localhost/So%C3%9Fen%2C%20Br%C3%BChen%2C%20Fonds/rote-linsen-bolognese/</loc>
+         <lastmod>2024-11-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://localhost/So%C3%9Fen%2C%20Br%C3%BChen%2C%20Fonds/spargelsosse/</loc>
+         <lastmod>2024-11-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
